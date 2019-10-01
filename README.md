@@ -1,6 +1,6 @@
 # Send live chat leads to a CRM like Salesforce
 
-Create Salesforce leads automatically from your live chat contacts. Tutorial:
+Create Salesforce leads automatically from your live chat contacts. Tutorial: https://pusher.com/chat-leads-salesforce
 
 ## Getting Started
 
